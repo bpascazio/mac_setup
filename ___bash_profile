@@ -23,6 +23,18 @@ alias gt='./gradlew tasks'
 alias sf='swiftformat'
 alias gd='git difftool -d -t opendiff'
 alias pro='cd ~/Library/MobileDevice/Provisioning\ Profiles'
+alias api='cd ~/code/mobile-api-service'
+alias mock='cd ~/code/mobile-api-mock'
+alias gw='cd ~/code/Agoda.Gateway'
+alias wg='cd ~/code/Agoda.WebGate'
+alias mspa='cd ~/code/agoda-com-spa-mobile'
+alias www='cd ~/code/agoda-com-dictator'
+alias host='cd ~/code/host-manage'
+alias wc='cd ~/code/web-campaign-api'
+alias pro='vi ~/.bash_profile'
+alias mod='git submodule update'
+alias logs='cd ~/logs'
+alias nl='cd ~/logs;./newday.sh'
 
 source ~/.git-completion.bash
 source ~/.git-prompt.sh
